@@ -4,7 +4,7 @@ masa = {
     "tonelada": 1000,        # 1 tonelada = 1000[kg]
     "kilogramo": 1,          # esta es su unidad base
     "gramo": 0.001,          # 1 gramo = 0.001[kg]
-    "miligramo": 1e-6        # 1 miligramo = 0.000001[kg]
+    "miligramo": 0.000001,        # 1 miligramo = 0.000001[kg]
 }
 longitud = {
     "pulgada": 0.0254,       # 1 pulgada = 0.0254[m]
